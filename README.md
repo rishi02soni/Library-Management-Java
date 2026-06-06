@@ -62,7 +62,7 @@ Represents a book in the library.
 
 ---
 
-### 📚 Library.java
+###  Library.java
 
 Manages the collection of books.
 
