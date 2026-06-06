@@ -42,9 +42,9 @@ LibraryManagementSystem/
 
 ---
 
-## 📖 Class Description
+##  Class Description
 
-### 📘 Book.java
+###  Book.java
 
 Represents a book in the library.
 
