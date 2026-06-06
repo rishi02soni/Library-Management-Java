@@ -86,37 +86,37 @@ Application entry point.
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 
-```bash
+```
 git clone https://github.com/your-username/library-management-system.git
 ```
 
-### 2️⃣ Navigate to Project
+### 2️ Navigate to Project
 
-```bash
+```
 cd library-management-system
 ```
 
-### 3️⃣ Compile Project
+### 3️ Compile Project
 
-```bash
+```
 javac -d out src/com/example/library/*.java
 ```
 
-### 4️⃣ Run Application
+### 4️ Run Application
 
-```bash
+```
 java -cp out com.example.library.Main
 ```
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
-```text
+```
 === Library Management System ===
 
 1 | Clean Code | Robert C. Martin
