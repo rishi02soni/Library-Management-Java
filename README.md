@@ -24,9 +24,9 @@ A simple yet effective **Library Management System** built using **Core Java** a
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
-```text
+```
 LibraryManagementSystem/
 │
 ├── src/
