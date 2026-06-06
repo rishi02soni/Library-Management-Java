@@ -74,7 +74,7 @@ Manages the collection of books.
 
 ---
 
-### ▶️ Main.java
+###  Main.java
 
 Application entry point.
 
