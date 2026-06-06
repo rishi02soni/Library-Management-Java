@@ -15,7 +15,7 @@ A simple yet effective **Library Management System** built using **Core Java** a
 ```
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Java
 * OOP (Classes & Objects)
