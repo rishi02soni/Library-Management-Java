@@ -13,7 +13,7 @@ A simple yet effective **Library Management System** built using **Core Java** a
 - Easy to Understand and Extend
 - Console-Based Application
 ```
----
+--- 
 
 ##  Technologies Used
 
