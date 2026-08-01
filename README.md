@@ -7,7 +7,7 @@ A simple yet effective **Library Management System** built using **Core Java** a
 ##  Features                 
 ```   
 - Add Books to the Library     
-- Store Book Information (ID, Title, Author)
+- Store Book Information (ID, Title, Author) 
 - Display Available Books
 - Object-Oriented Design
 - Easy to Understand and Extend
