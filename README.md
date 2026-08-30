@@ -3,11 +3,11 @@
 A simple yet effective **Library Management System** built using **Core Java** and **Object-Oriented Programming (OOP)** concepts. This console-based application allows users to manage books within a library and serves as a great be  ginner-friendly project for understanding Java fundamentals.    
                                                  
 ---                                                                                                             
-                                                                                   
+                                                                                    
 ##  Features                               
 ```    
 - Add Books to the Library        
-- Store Book Information (ID, Title, Author) 
+- Store Book Information (ID, Title, Author)  
 - Display Available Books
 - Object-Oriented Design
 - Easy to Understand and Extend
