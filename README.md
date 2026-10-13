@@ -10,7 +10,7 @@ A simple yet effective **Library Management System** built using **Core Java** a
 - Store Book Information (ID, Title, Author)     
 - Display Available Books  
 - Object-Oriented Design  
-- Easy to Understand and Extend
+- Easy to Understand and Extend 
 - Console-Based Application
 ```
 --- 
